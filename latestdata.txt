@@ -1,0 +1,15 @@
+{
+   "Indicium_Supra_dll":"",
+   "finjVersion":27,
+   "qdRFzx_exe":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593768579152/FluxteamInjector.exe",
+   "injDep":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593118445668/kernel64.sys.dll",
+   "exploit-module":{
+      "version":2875,
+      "patched":false,
+      "download":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593449816184/exploit-main.dll"
+   },
+   "csapi":{
+      "version":9,
+      "download":"https://cdn.discordapp.com/attachments/753114724215947267/999790363432722523/WeAreDevs_API.dll"
+   }
+}
