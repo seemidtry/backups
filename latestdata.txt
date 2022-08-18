@@ -1,15 +1,18 @@
 {
-   "Indicium_Supra_dll":"",
-   "finjVersion":27,
-   "qdRFzx_exe":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593768579152/FluxteamInjector.exe",
-   "injDep":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593118445668/kernel64.sys.dll",
-   "exploit-module":{
-      "version":2875,
-      "patched":false,
-      "download":"https://cdn.discordapp.com/attachments/988241596711587881/1001644593449816184/exploit-main.dll"
+   "ui":{
+      "version":45,
+      "minimumversion":45,
+      "downloadurl":"https://cdn.discordapp.com/attachments/753114724215947267/1004486543924269208/JJSploit_Installer.exe",
+      "servermessage":"Working as of August 3.",
+      "updateinfo":"July 24- New injector system",
+      "Indicium_Supra_dll":"https://cdn.discordapp.com/attachments/753114724215947267/955471688303255562/Module2.dll",
+      "qdRFzx_exe":"https://cdn.discordapp.com/attachments/753114724215947267/1004483787868082268/FluxteamInjector.exe",
+      "injDep":"https://cdn.discordapp.com/attachments/753114724215947267/1004478823653449858/kernel64.sys.dll",
+      "LoadLibrary_x86_address_exe":"https://cdn.discordapp.com/attachments/753114724215947267/929597027497693225/LoadLibrary_x86_address.exe"
    },
-   "csapi":{
-      "version":9,
-      "download":"https://cdn.discordapp.com/attachments/753114724215947267/999790363432722523/WeAreDevs_API.dll"
+   "dll":{
+      "version":"3058",
+      "patched":false,
+      "downloadurl":"https://cdn.discordapp.com/attachments/753114724215947267/1004478719575998494/exploit-main.dll"
    }
 }
